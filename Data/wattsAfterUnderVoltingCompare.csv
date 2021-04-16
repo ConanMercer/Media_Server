@@ -1,0 +1,6 @@
+state,watts
+sleep before,4.8
+idle before,120
+sleep after,4.8
+idle after,80
+

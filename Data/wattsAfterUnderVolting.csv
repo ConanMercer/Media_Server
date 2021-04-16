@@ -1,6 +1,7 @@
 state,watts
 sleep,4.8
-idle,80
-load,172
-plexStream,82
+idle after,80
+plex stream,82
+prime95 load,172
+
 
